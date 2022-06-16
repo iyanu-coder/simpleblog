@@ -1,0 +1,32 @@
+#navbar{
+    width: 100%;
+}
+
+h2{
+    font-family: cursive;
+}
+
+#items{
+    font-size: 20px;
+}
+
+
+.head{
+    /* width: 100%; */
+	height: calc(80vh - 180px);
+	background-image: url(\snow.jpg);
+	background-repeat: no-repeat;
+	/*background-position: center;*/
+    background-size: cover;
+    /* background-color: aqua; */
+}
+
+.head h2{
+    text-align: center;
+    /* margin-left: 30%;
+    margin-right: 30%; */
+    padding-top: 130px;
+    font-size: 50px;
+    font-family: cursive;
+
+}
